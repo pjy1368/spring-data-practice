@@ -6,3 +6,6 @@ spring:
   data:
     rest:
       base-path: /api/v1
+
+server:
+  port: 9999
